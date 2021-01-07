@@ -3,24 +3,15 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+•Experience in developing Navigation Stack including Simultaneous Localization and Mapping (SLAM), local and global planner packages, computer vision algorithms & simulation environment for Robotic Systems.
+•Competency in Machine Learning algorithms for Supervised and Unsupervised Learning.
+•Fluency with Deep Learning architectures CNN, RNN, GANs, Autoencoders, Mask-RCNN.
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+Technologies/Tools:
+Robot Operating System(ROS), Python, C++, Bash, PyTorch, Keras, scikit-learn, OpenCV, Simulink, Gazebo, MATLAB
 
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+Actively looking for full time software developer positions in Machine Learning | Deep Learning | Robotics | Computer Vision throughout United States.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
-
-## Recognition
-
-- 2020 Awesome Woman in Technology Award
+Graduate Research Assistant at North Carolina State University
